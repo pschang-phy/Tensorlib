@@ -1,2 +1,22 @@
 # Tensorlib
-A simple Tensor library for matrix-product simulation
+A simple Tensor library for tensor-product simulation
+
+## Introduction
+The tensor-product form of quantum objects plays a central role in the simulation of one-dimensional quantum many-body systems.
+
+## Requirement
+* [BLAS](http://www.netlib.org/blas) - Basic Linear Algebra Subprograms
+* [LAPACKE](http://www.netlib.org/lapack/lapacke.html) - The LAPACKE C Interface to LAPACK
+
+## Build and Test
+* In source root
+```
+$ make
+```
+
+* Run test itebd
+```
+./itebd 
+Input xfield: 0.02
+Input zfield: 0.03
+```
