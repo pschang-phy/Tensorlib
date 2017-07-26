@@ -20,3 +20,7 @@ $ make
 Input xfield: 0.02
 Input zfield: 0.03
 ```
+
+## Reference
+* [The density-matrix renormalization group in the age of matrix product states](https://arxiv.org/abs/1008.3477)
+* [The iTEBD algorithm beyond unitary evolution](https://arxiv.org/abs/0711.3960)
